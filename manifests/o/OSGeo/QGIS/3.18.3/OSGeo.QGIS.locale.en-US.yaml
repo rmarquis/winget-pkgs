@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultlocale.1.0.0.schema.json
+PackageIdentifier: OSGeo.QGIS
+PackageVersion: 3.18.3
+PackageLocale: en-US
+Publisher: OSGeo
+#PublisherUrl:
+#PublisherSupportUrl: 
+#PrivacyUrl: 
+#Author: 
+PackageName: QGIS
+PackageUrl: https://qgis.org
+License: GPL
+#LicenseUrl: 
+#Copyright: 
+#CopyrightUrl: 
+ShortDescription: gis
+Description: QGIS is a user-friendly Open Source Geographic Information System (GIS) licensed under the GNU General Public License. QGIS is an official project of the Open Source Geospatial Foundation (OSGeo). It runs on Linux, Unix, Mac OSX, Windows and Android and supports numerous vector, raster, and database formats and functionalities.
+Moniker: qgis
+Tags:
+  - gis
+ManifestType: defaultLocale
+ManifestVersion: 1.0.0
